@@ -6,36 +6,7 @@ header{color: white;
      width: 900;
    
 }
-body{header{color: white;
- background-color: cadetblue;
-      margin-left: 100 px;
-     margin-right: auto;
-     #margin-top: 10px;
-     width: 900;
-   
-}
 body{
-   background-color:white;
-    
-}
-
-h2{
- color: red;
-}
-
-h3{
- color: blue;
- font-style: italic;
-}
-h4{ color: darkred;
- }
-section {
-  #3background-color:gainsboro;
-  #background-repeat: no-repeat;
-    POSITION: relative;
-LEFT: 50px;
-  
-}
    background-color:white;
     
 }
